@@ -101,6 +101,9 @@
 
 ## 참고문헌
 [1] 방송통신위원회, “2017년 하반기 스팸 유통현황”, 2018.
+
 [2] Hoon Yoo, “조건부 확률 및 베이즈 정리”, 2018.
+
 [3] University Califonia Irvine, “SMS Spam Collection Data Set”, 22 June 2012, https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection (2018년 06월 04일 검색).
+
 [4] Kenneth C. Louden, “Compiler Construction Principles and Practice”, PWS　Publishing Company, pp.34-46, 1997.
